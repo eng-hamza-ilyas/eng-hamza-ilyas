@@ -1,22 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hamza Bhatti</h1>
-<h3 align="center">A dedicated Full Stack Engineer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hamza_bhatti02" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza_bhatti02" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/mhamzabhatti" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhamzabhatti" height="30" width="40" />
-</a>
-<a href="https://fb.com/m.hamzabhatti" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.hamzabhatti" height="30" width="40" />
-</a>
-<a href="https://instagram.com/hamza_bhatti98" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza_bhatti98" height="30" width="40" />
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
@@ -29,15 +10,15 @@
 </a>
 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -45,23 +26,27 @@
 </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
 
+<!-- SQL Server -->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
 </a>
 
+<!-- Dynamics 365 -->
 <a href="https://dynamics.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/448239/microsoft-dynamics-365.svg" alt="dynamics365" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Dynamics_365_logo.svg" alt="dynamics365" width="40" height="40"/>
 </a>
 
+<!-- Power Platform -->
 <a href="https://powerplatform.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/373589/power-platform.svg" alt="powerplatform" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Power_Platform_logo.svg" alt="powerplatform" width="40" height="40"/>
 </a>
 
+<!-- Azure -->
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/448271/azure.svg" alt="azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 </a>
 
 </p>
