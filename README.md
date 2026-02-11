@@ -17,7 +17,7 @@
        style="vertical-align: middle;" />
 </a>
 <a href="https://dynamics.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Dynamics_365_logo.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg"
        alt="Dynamics 365"
        width="40"
        height="40"
