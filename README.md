@@ -16,4 +16,11 @@
        height="40"
        style="vertical-align: middle;" />
 </a>
+<a href="https://dynamics.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Dynamics_365_logo.svg"
+       alt="Dynamics 365"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+</a>
 </p>
